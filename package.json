@@ -1,10 +1,11 @@
 {
-  "name": "hello-material-ui",
+  "name": "SimuCastBox",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "bundle.js",
   "scripts": {
-    "start": "webpack-dev-server --hot"
+    "start": "webpack-dev-server --hot",
+    "build": "webpack"
   },
   "author": "",
   "license": "ISC",

@@ -1,6 +1,7 @@
 # generated files
 node_modules/
 dist/
+build/
 
 #generated log
 *.log
